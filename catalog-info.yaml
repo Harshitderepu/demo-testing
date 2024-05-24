@@ -20,6 +20,7 @@ metadata:
   annotations:
     github.com/project-slug: Harshitderepu/demo-testing
     grafana/overview-dashboard: http://localhost:3000/public-dashboards/dbdf29e96fa444938868717518c71dac
+    jenkins.io/job-full-name: demo
 spec:
   type: other
   lifecycle: unknown
