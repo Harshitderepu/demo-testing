@@ -2,6 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: demo-testing
+  description: The demo web API
+  tags:
+    - spotify
+    - rest
+    - new
   annotations:
     github.com/project-slug: Harshitderepu/demo-testing
     grafana/overview-dashboard: http://localhost:3000/public-dashboards/dbdf29e96fa444938868717518c71dac
