@@ -4,7 +4,7 @@ metadata:
   name: demo-testing
   annotations:
     github.com/project-slug: Harshitderepu/demo-testing
-    github.com/project-slug: 'Harshitderepu/demo-testing/actions'
+  
 spec:
   type: other
   lifecycle: unknown
